@@ -22,6 +22,6 @@ summary(model3)
 
 model4 = lm(TOI ~ GP+ASSITS+PTS, data = hockeystats)
 summary(model4)
-#GP = 13.86
-#ASSISTS = 11.11
+#GP = 14.81
+#ASSISTS = 22.18
 #PTS = -7.52
